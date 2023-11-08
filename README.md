@@ -1,5 +1,3 @@
-SUBJECT
-Business Proposal for Leading Edge Live Bus Tracking System
 OBJECTIVE
 The primary objective of this proposed Bus Tracking System is revolutionizing the
 way transportation is experienced all over the world. By
